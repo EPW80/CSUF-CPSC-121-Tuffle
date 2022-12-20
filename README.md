@@ -38,23 +38,29 @@ When the user clicks on the “Next Tuffle” button, this function will be call
 
 ## Installation
 
-`Clone repo through replit
+`Clone repo through replit`
 
-make all tests
+`make all tests`
 
-Run program while make all tests is in progress
+`Run program while make all tests is in progress`
 
-R = run backend
+`R = run backend`
 
-copy url and place into "Tuffle application(link below)" backend and hit save
+`copy url and place into "Tuffle application(link below)" backend and hit save`
 
-Start new game over by hitting "Give Up"`
+`Start new game over by hitting "Give Up"`
 
 ![](./public/zzzzz.gif)
 
+## Replit
+
+[Replit](https://replit.com)
+
+
+
 ## Tuffle application
 
-![Tuffle Frontend](https://amajc.github.io/tuffle-frontend/)
+[Tuffle Frontend](https://amajc.github.io/tuffle-frontend/)
 
 ## Building
 
